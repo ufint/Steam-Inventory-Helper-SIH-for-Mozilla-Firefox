@@ -1,7 +1,7 @@
 # Steam-Inventory-Helper-SIH-for-Mozzila-Firefox
 Enables the use of Steam Inventory Helper (vibecoded by Claude) | Позволяет пользоваться Steam Inventory Helper (vibecoded by Claude)
 
-#**ENG**
+# **ENG**
 **THE EXTENSION IS NOT READY AND IS A TEMPORARY HACK THAT NEEDS TO BE ADDED EVERY TIME YOU OPEN FIREFOX**
 
 vibe-coded something, so if an error comes up, either throw the ZIP into Claude and describe your problem for it or write here: tg:ufint / e-mail: [ufint.github@gmail.com](mailto:ufint.github@gmail.com)
@@ -16,7 +16,7 @@ vibe-coded something, so if an error comes up, either throw the ZIP into Claude 
 6. Click "Reload" if the sih.app website didn't open
 Done.
 
-#**RUS**
+# **RUS**
 **РАСШИРЕНИЕ НЕ ГОТОВО И ЯВЛЯЕТСЯ КОСТЫЛЕМ НА ВРЕМЯ, КОТОРЫЙ НУЖНО ДОБАВЛЯТЬ КАЖДЫЙ РАЗ КОГДА ВЫ ОТКРЫВАЕТЕ FIREFOX**
 
 навайбкодил что то, если появилась ошибка, то либо закиньте zip в Claude и опишите ему проблему, либо напишите сюда: tg:ufint / e-mail: ufint.github@gmail.com
