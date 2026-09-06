@@ -29,3 +29,6 @@ Done.
 5. Выберите файл manifest.json в папке, в которую распаковали архив
 6. Нажмите "Обновить", если не открылся сайт sih.app
 Готово
+
+
+tags: Steam Inventory Helper, SIH, Mozilla Firefox, Firefox extension
