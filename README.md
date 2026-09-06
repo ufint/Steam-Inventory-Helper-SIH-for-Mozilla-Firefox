@@ -16,6 +16,8 @@ vibe-coded something, so if an error comes up, either throw the ZIP into Claude 
 6. Click "Reload" if the sih.app website didn't open
 Done.
 
+Known bugs: SIH Games does not open.
+
 # **RUS**
 **РАСШИРЕНИЕ НЕ ГОТОВО И ЯВЛЯЕТСЯ КОСТЫЛЕМ НА ВРЕМЯ, КОТОРЫЙ НУЖНО ДОБАВЛЯТЬ КАЖДЫЙ РАЗ КОГДА ВЫ ОТКРЫВАЕТЕ FIREFOX**
 
@@ -30,5 +32,6 @@ Done.
 6. Нажмите "Обновить", если не открылся сайт sih.app
 Готово
 
+Известные баги: не открывается SIH Games
 
 tags: Steam Inventory Helper, SIH, Mozilla Firefox, Firefox extension
