@@ -1,4 +1,4 @@
-# Steam-Inventory-Helper-SIH-for-Mozzila-Firefox
+# Steam-Inventory-Helper-SIH-for-Mozilla-Firefox
 Enables the use of Steam Inventory Helper (vibecoded by Claude) | Позволяет пользоваться Steam Inventory Helper (vibecoded by Claude)
 
 # **ENG**
